@@ -1,0 +1,12 @@
+node_modules/
+.vercel/
+.env
+.env.*
+!.env.example
+*.tar.gz
+node_modules/
+.vercel/
+.env
+.env.*
+!.env.example
+.DS_Store
